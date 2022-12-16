@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+
+- 🔭 I’m currently working on Cloud and Datacenter Monitoring and Observability - SCOM, OpsView, Splunk 
+- 🌱 I’m currently learning C# to help futher develop my PowerShell skills
+
+
 <!--
 **f1point2/f1point2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
